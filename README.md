@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariskike
 - 👀 I’m interested in Software quality assurrance (tester)
-- 🌱 I’m currently learning test automation (selenium)
+- 🌱 I’m currently learning test automation
 - 💞️ I’m looking to collaborate on testing projects.
 - 📫 How to reach me email: stmarisnwokike@gmail.com
 
